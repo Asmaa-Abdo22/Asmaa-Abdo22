@@ -4,7 +4,7 @@
  <img width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="girl code gif " align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaa-abdo22&label=Profile%20views&color=0e75b6&style=flat" alt="asmaa-abdo22" /> </p>
 
-- 🌱 I’m currently learning **React, Next js**
+- 🌱 I’m currently learning ** Next js**
 
 - 💬 Ask me about **React**
 
