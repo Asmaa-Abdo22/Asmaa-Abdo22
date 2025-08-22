@@ -1,91 +1,64 @@
-![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
+# 👩‍💻 Asmaa Abdo
 
-<h1 align="center">Hi 👋, I'm Asmaa Abdo</h1>
-<h3 align="center">A Frontend Developer from Egypt</h3>
+![Frontend Development](https://i.imgur.com/2n9rH9K.png)
 
-<img width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="girl code gif " align="right" />
+## Hi there 👋, I'm Asmaa Abdo
+**A Passionate Frontend Developer from Egypt**
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=asmaa-abdo22&label=Profile%20views&color=0e75b6&style=flat" alt="asmaa-abdo22" /> 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Asmaa-Abdo22&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-### 👩‍💻 About Me:
-- 🎓 I’m a **Frontend Developer** with a strong passion for building interactive and responsive web applications.  
-- 🌍 From **Egypt**, always excited to learn and explore new technologies.  
-- 🚀 Currently improving my skills in **React Ecosystem, TypeScript, and Next.js**.  
-- 💡 Love transforming ideas into elegant, user-friendly designs.  
-- 📧 Reach me at: **asmaaabdomuhammad@gmail.com**  
-
+## 🌟 About Me:
+- 🎨 I'm a **Frontend Developer** passionate about building modern, responsive, and user-friendly web applications.  
+- 🌍 From Egypt, always eager to learn and explore new technologies.  
+- 🚀 Currently focusing on the **React Ecosystem, TypeScript, TailwindCSS, and Next.js**.  
+- 💡 Love transforming creative ideas into elegant, scalable digital solutions.  
+- 📫 Reach me at: **asmaaabdomuhammad@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
+## 🤝 Connect with Me:
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asmaaabdomuhammad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmaaabdo22/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Asmaa-Abdo22)
+
+---
+
+## 🛠️ Languages and Tools:
 <p align="left">
-
-<a href="mailto:asmaaabdomuhammad@gmail.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" alt="email" />
-</a>
-
-<a href="https://www.linkedin.com/in/asmaa-abdo-a4857719b/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin"/>
-</a>
-
-<a href="https://github.com/asmaa-abdo22" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="40" alt="github"/>
-</a>
-
-</p>
-
-
----
-
-### 🛠 Languages and Tools:
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
-</a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
 
-### 🚀 Tech Stack Badges:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asmaa-abdo22&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+## 🚀 Tech Stack Badges:
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-abdo22&show_icons=true&locale=en&layout=compact" alt="asmaa-abdo22" /></p>
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Asmaa-Abdo22&theme=darkhub&no-frame=true&margin-w=10)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaa-abdo22&show_icons=true&locale=en" alt="asmaa-abdo22" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaa-abdo22&" alt="asmaa-abdo22" /></p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asmaa-Abdo22&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa-Abdo22&layout=compact&theme=radical)
