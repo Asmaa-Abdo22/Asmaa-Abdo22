@@ -1,16 +1,21 @@
+# 👩‍💻 Asmaa Abdo
+
 ![Header](https://raw.githubusercontent.com/Asmaa-Abdo22/Asmaa-Abdo22/main/assets/header.png)
 
 <h1 align="center">Hi 👋, I'm Asmaa Abdo</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Software Engineer| Frontend Developer  | </h3>
 
 ---
 
 ### 👩‍💻 About Me:
 - 🎓 I’m a **Frontend Developer** with a strong passion for building interactive and responsive web applications.  
 - 🌍 From **Egypt**, always excited to learn and explore new technologies.  
-- 🚀 Currently improving my skills in **React Ecosystem, TypeScript, and Next.js**.  
 - 💡 Love transforming ideas into elegant, user-friendly designs.  
 - 📧 Reach me at: **asmaaabdomuhammad@gmail.com**  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asmaa-Abdo22/Asmaa-Abdo22/main/assets/girl-coding.png" width="300"/>
+</p>
 
 ---
 
