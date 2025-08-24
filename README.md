@@ -9,9 +9,8 @@
 
 ### 👩‍💻 About Me:
 - 🎓 I’m a **Frontend Developer** with a strong passion for building interactive and responsive web applications.  
-- 🌍 From **Egypt**, always excited to learn and explore new technologies.  
+-  Always excited to learn and explore new technologies.  
 - 💡 Love transforming ideas into elegant, user-friendly designs.  
-- 📧 Reach me at: **asmaaabdomuhammad@gmail.com**  
 
 
 ---
@@ -52,12 +51,6 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asmaa-abdo22&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
 
 ---
 
