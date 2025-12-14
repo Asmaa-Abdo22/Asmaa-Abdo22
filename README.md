@@ -1,14 +1,14 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 
 <h1 align="center">Hi 👋, I'm Asmaa Abdo</h1>
-<h3 align="center">Software Engineer | Frontend Developer   </h3>
+<h3 align="center">Software Engineer | Frontend Developer  </h3>
 
 ---
 
 ### 👩‍💻 About Me:
 - 🎓 I’m a **Frontend Developer** with a strong passion for building interactive and responsive web applications.  
 - 💻 Always excited to learn and explore new technologies.  
-- 💡 Love transforming ideas into elegant and user-friendly designs.  
+- 💡 Love transforming ideas into elegant and user-friendly designs.   
 
 
 ---
