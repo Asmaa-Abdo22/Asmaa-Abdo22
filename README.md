@@ -38,6 +38,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-abdo22&show_icons=true&locale=en&layout=compact" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-abdo22&show_icons=true&locale=en&layout=compact&theme=dark" />
+</p>
+
 
 
