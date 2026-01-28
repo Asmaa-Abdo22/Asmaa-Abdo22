@@ -11,17 +11,34 @@
 
 ---
 
-## About Me
+##  About Me
 
 - **Frontend Developer** with hands-on experience in building real-world projects
 - Specialized in **React, Next.js, and modern JavaScript/TypeScript** ecosystems
 - Strong focus on **clean UI, responsive design, and exceptional user experience**
 - Continuously learning and improving my skills in frontend technologies
 - Enjoy collaborating in teams to transform ideas into production-ready applications
+- Actively solving coding challenges on **LeetCode** and **Codewars** to enhance problem-solving skills
 
 ---
 
-## Connect With Me
+##  Links & Portfolio
+
+<p align="left">
+  <a href="https://asmaa-portfolio-28.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/asmaa-abdo22/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codewars.com/users/Asmaa-Abdo" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+  </a>
+</p>
+
+---
+
+##  Connect With Me
 
 <p align="left">
   <a href="mailto:asmaaabdomuhammad@gmail.com" target="_blank">
@@ -37,7 +54,7 @@
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 ### **Frontend Fundamentals**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,11 +79,12 @@
 
 ---
 
-## GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa-abdo22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaa-abdo22&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
+---
 
 ⭐ **Feel free to explore my repositories and connect with me!**
