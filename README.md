@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 - **Frontend Developer** with hands-on experience in building real-world projects
 - Specialized in **React, Next.js, and modern JavaScript/TypeScript** ecosystems
@@ -21,7 +21,7 @@
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:asmaaabdomuhammad@gmail.com" target="_blank">
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend Fundamentals**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,13 +65,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaa-abdo22&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa-abdo22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa-abdo22&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ⭐ **Feel free to explore my repositories and connect with me!**
