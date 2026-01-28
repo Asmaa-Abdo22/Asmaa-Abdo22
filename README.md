@@ -6,7 +6,8 @@ Passionate about building modern, scalable, and user-friendly web applications
 </p>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=Asmaa-Abdo22&style=flat-square)
+---
 ## 👩‍💻 About Me
 
 -  **Frontend Developer** with hands-on experience in building real-world projects  
