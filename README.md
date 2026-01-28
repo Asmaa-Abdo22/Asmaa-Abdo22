@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Frontend Developer</h3>
 
 <p align="center">
-Passionate about building modern, scalable, and user-friendly web applications 
+Passionate about building modern, scalable, and user-friendly web applications
 </p>
 
 <p align="center">
