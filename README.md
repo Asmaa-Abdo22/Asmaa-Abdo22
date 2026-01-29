@@ -15,9 +15,6 @@
 
 - **Frontend Developer** with hands-on experience in building real-world projects
 - Specialized in **React, Next.js, and modern JavaScript/TypeScript** ecosystems
-- Strong focus on **clean UI, responsive design, and exceptional user experience**
-- Continuously learning and improving my skills in frontend technologies
-- Enjoy collaborating in teams to transform ideas into production-ready applications
 - Actively solving coding challenges on **LeetCode** and **Codewars** to enhance problem-solving skills
 
 ---
@@ -82,7 +79,6 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaa-abdo22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa-abdo22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="45%" />
 </p>
 
