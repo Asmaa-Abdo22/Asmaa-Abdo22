@@ -76,12 +76,4 @@
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa-abdo22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="45%" />
-</p>
-
----
-
 ⭐ **Feel free to explore my repositories and connect with me!**
